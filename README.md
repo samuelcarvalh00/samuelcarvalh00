@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos desafios que me p
 
 Se quiser saber mais sobre meus projetos ou entrar em contato, sinta-se à vontade para me chamar!
 <p align="left">
-    <a href="https://github.com/samuelcarvalh00">
+    <a href="https://www.instagram.com/sam.darksouls3">
 ---
 
 ### 🤖 Linguagens e Tecnologias
