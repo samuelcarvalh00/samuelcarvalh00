@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos desafios que me p
 
 Se quiser saber mais sobre meus projetos ou entrar em contato, sinta-se à vontade para me chamar!
 <p align="left">
-https://samuelcarvalh00.github.io/paginalegal/
+https://samuelcarvalh00.github.io/mais-sobre-meu-trabalho/
 
 
 ### 🤖 Linguagens e Tecnologias
