@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos desafios que me p
 
 Se quiser saber mais sobre meus projetos ou entrar em contato, sinta-se à vontade para me chamar!
 <p align="left">
-    <a hreF"https://samuelcarvalh00.github.io/paginalegal/">
+    <a href"https://samuelcarvalh00.github.io/paginalegal/">
 saiba mais...
 
 
