@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Samuel Carvalho
 
-**Desenvolvedora FullStack**
+**Desenvolvedor FullStack**
 
 Olá, meu nome é Samuel Carvalho, tenho 17 anos e sou de Fortaleza, Ceará. Atualmente, técnico em Análise e Desenvolvimento de Sistemas, e venho aprimorando minhas habilidades em programação e soluções tecnológicas.
 
@@ -8,8 +8,9 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos desafios que me p
 
 Se quiser saber mais sobre meus projetos ou entrar em contato, sinta-se à vontade para me chamar!
 <p align="left">
-    <a href="https://www.instagram.com/sam.darksouls3">
----
+    <a hreF"https://samuelcarvalh00.github.io/paginalegal/">
+saiba mais...
+
 
 ### 🤖 Linguagens e Tecnologias
 
