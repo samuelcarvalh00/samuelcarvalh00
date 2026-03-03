@@ -17,4 +17,3 @@ Se quiser conhecer meus projetos ou trocar uma ideia, fique à vontade para entr
 
 ---
 
-### 🤖 Linguagens e Tecnologias
