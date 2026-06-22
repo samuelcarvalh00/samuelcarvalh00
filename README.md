@@ -2,7 +2,7 @@
 
 **Estudante de Ciência da Computação | Técnico em Análise e Desenvolvimento de Sistemas**
 
-Olá! Meu nome é Samuel Carvalho, tenho 17 anos e sou de Fortaleza, Ceará.  
+Olá! Meu nome é Samuel Carvalho, tenho 18 anos e sou de Fortaleza, Ceará.  
 Atualmente, curso o **1º semestre de Ciência da Computação na UNIFOR** e sou **Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI-CE**.
 
 Tenho interesse em desenvolvimento de software e estou constantemente aprimorando minhas habilidades em programação, lógica e resolução de problemas. Gosto de transformar ideias em soluções práticas, sempre buscando escrever código claro, funcional e organizado.
