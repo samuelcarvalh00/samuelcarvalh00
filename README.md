@@ -12,7 +12,7 @@ Aqui no meu GitHub você encontrará projetos acadêmicos e pessoais que reflete
 Se quiser conhecer meus projetos ou trocar uma ideia, fique à vontade para entrar em contato!
 
 <p align="left">
-🔗 <a href="https://samuelcarvalh00.github.io/sobre_meu_trabalho" target="_blank">Portfólio / Sobre meu trabalho</a>
+🔗 <a href="https://samuelcarvalh00.github.io/sobre_mim/" target="_blank">Portfólio / Sobre meu trabalho</a>
 </p>
 
 ---
